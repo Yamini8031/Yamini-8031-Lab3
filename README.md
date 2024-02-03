@@ -1,2 +1,3 @@
-# Yamini-8031-Lab3
-Initial Repo
+Name : Yamini Ravikumar
+Project Title: Lab3
+Student Id : 8974260
